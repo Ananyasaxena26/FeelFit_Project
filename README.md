@@ -196,29 +196,29 @@ The experimental results demonstrate the effectiveness of wearable analytics and
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+
 <img width="1882" height="920" alt="image" src="https://github.com/user-attachments/assets/d946d97f-bc55-4b0c-a2e9-a16d99b826e5" />
 
 
 ### Mood Prediction
-![Mood Prediction](images/mood_prediction.png)
+
 <img width="1550" height="723" alt="Screenshot 2026-05-07 001622" src="https://github.com/user-attachments/assets/88a517f3-3696-428d-a5f5-e79ea84e1dfc" />
 
 
 
 
 ### Breathing Exercise Module
-![Breathing Exercise](images/breathing_exercise.png)
+
 <img width="881" height="846" alt="Screenshot 2026-06-02 183420" src="https://github.com/user-attachments/assets/83b6a869-ac9a-4021-b583-29db6a70761c" />
 
 
 ### Emergency Alert System
-![Emergency Alert](images/emergency_alert.png)
+
 <img width="305" height="671" alt="Screenshot 2026-06-02 183926" src="https://github.com/user-attachments/assets/49441f75-5102-41df-bbf0-ba0fa51afd42" />
 
 
 ### System Architecture
-![Architecture](images/architecture.png)
+
 <img width="397" height="715" alt="Screenshot 2026-05-31 173612" src="https://github.com/user-attachments/assets/5502ee1c-51a5-48a1-ae26-5e0a449f0ce9" />
 
 
