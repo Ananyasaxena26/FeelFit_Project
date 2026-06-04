@@ -1,0 +1,106 @@
+.container {
+  max-width: 760px;
+  animation: fadeUp 0.5s ease both;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.header {
+  margin-bottom: 32px;
+}
+
+.eyebrow {
+  font-size: 10px;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #00d2be;
+  font-family: 'DM Mono', monospace;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.title {
+  font-size: 34px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: #f0f6ff;
+  margin: 0;
+}
+
+.section {
+  margin-top: 32px;
+}
+
+.sectionTitle {
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #64748b;
+  font-family: 'DM Mono', monospace;
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 20px;
+  gap: 10px;
+  color: #475569;
+}
+
+.emptyText {
+  font-family: 'DM Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.025);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-left: 3px solid #00d2be;
+  border-radius: 12px;
+  padding: 16px 18px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: #94a3b8;
+  font-size: 14px;
+  line-height: 1.6;
+  transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+  animation: fadeUp 0.4s ease both;
+}
+
+.card:nth-child(1) { animation-delay: 0.05s; }
+.card:nth-child(2) { animation-delay: 0.10s; }
+.card:nth-child(3) { animation-delay: 0.15s; }
+.card:nth-child(4) { animation-delay: 0.20s; }
+
+.card:hover {
+  transform: translateX(4px);
+  border-color: rgba(0, 210, 190, 0.3);
+  background: rgba(0, 210, 190, 0.04);
+  color: #e2eaf4;
+}
+
+.cardNum {
+  font-size: 11px;
+  font-family: 'DM Mono', monospace;
+  color: #00d2be;
+  font-weight: 500;
+  flex-shrink: 0;
+  min-width: 24px;
+}

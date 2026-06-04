@@ -1,0 +1,101 @@
+# ======================
+# Node.js / MERN
+# ======================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build folders
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+.parcel-cache/
+
+# ======================
+# React
+# ======================
+frontend/node_modules/
+frontend/build/
+
+# ======================
+# Backend
+# ======================
+backend/node_modules/
+
+# ======================
+# Python / ML
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python caches
+.pytest_cache/
+.mypy_cache/
+
+# ======================
+# ML Models
+# ======================
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pb
+*.pkl
+*.joblib
+*.sav
+
+# Large datasets
+data/
+datasets/
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+
+# ======================
+# IntelliJ / JetBrains
+# ======================
+.idea/
+
+# ======================
+# Misc
+# ======================
+*.tmp
+*.temp
+token.json
+client_secret.json
+.env
+.env.local

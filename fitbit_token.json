@@ -1,0 +1,9 @@
+{
+    "access_token": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyM1RYTUsiLCJzdWIiOiJEMlNXMlYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyaHIgcmFjdCByc2xlIiwiZXhwIjoxNzc4MjM0NDU2LCJpYXQiOjE3NzgyMDU2NTZ9.TteN8o0mRvUsZOBRbZUAqFLRk6Q1jJ46PqKW5b6Z0eE",
+    "expires_in": 28800,
+    "refresh_token": "925dd4cb36b92c045fc1647ef7715b37edec6fbb5f00976febe2f25aa1cc3b4e",
+    "scope": "sleep heartrate activity",
+    "token_type": "Bearer",
+    "user_id": "D2SW2V",
+    "created_at": "2026-05-08T07:31:10.537979"
+}
